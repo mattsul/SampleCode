@@ -1,2 +1,2 @@
 # SampleCode
-This repository holds sample code!
+This code is best ran on Google Colab as the script is GPU intensive. 
